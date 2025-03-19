@@ -1,7 +1,7 @@
 
-# PlanA - Data Analysis and Visualization
+# System_A - Data Analysis and Visualization
 
-This project contains `PlanA.ipynb`, a Jupyter Notebook for data analysis and visualization. It utilizes `pandas` for data processing and `altair` for visualization.
+This project contains `System_A.ipynb`, a Jupyter Notebook for data analysis and visualization. It utilizes `pandas` for data processing and `altair` for visualization.
 
 
 
@@ -29,11 +29,11 @@ pip install -r requirements.txt
    jupyter notebook
    ```
 
-Then, open `PlanA.ipynb` in Jupyter Notebook and execute the code.
+Then, open `System_A.ipynb` in Jupyter Notebook and execute the code.
 
 ### Option 2: Viewing the HTML File
 
-If you only want to see the results without running the notebook, open the `PlanA.html` file in a web browser.
+If you only want to see the results without running the notebook, open the `System_A.html` file in a web browser.
 
 
 
